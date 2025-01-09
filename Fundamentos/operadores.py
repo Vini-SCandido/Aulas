@@ -1,0 +1,7 @@
+print('soma:', 5 + 2)
+print('subtração:', 5 - 2)
+print('multiplicação:', 5 * 2)
+print('divisão:', 5 / 2)
+print('divisão arredondando pra baixo:', 5 // 2)
+print('potenciação:', 5 ** 2)
+print('modulo:', 5 % 2)
